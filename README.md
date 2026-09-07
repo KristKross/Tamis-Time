@@ -1,6 +1,6 @@
 # Tamis Time — Filipino Dessert Calculator
 
-**Tamis Time** is a playful Filipino dessert calculator that generates a final delicacy based on three simple choices. The app includes animations, sound effects, and Filipino‑inspired visuals to make the experience lively and cultural.
+**Tamis Time** is a playful Filipino dessert calculator that generates a final delicacy based on three simple choices. The app includes animations and sound effects to create a great user experience.
 
 ---
 
@@ -28,9 +28,6 @@ There are **8 total possible dessert combinations**.
 
 - **Sound Effects**  
   Button clicks, transitions, and the final reveal include custom audio feedback.
-
-- **Filipino‑Inspired Visuals**  
-  Bright colors and dessert‑themed UI elements create a fun cultural vibe.
 
 - **NaN‑Style Calculation Logic**  
   Internally, the app uses a playful “NaN calculator” concept to compute dessert outcomes based on user choices.
